@@ -45,7 +45,7 @@ My name is Stjepan Kos, I'm a `Computer Science` student at University of Zagreb
 ---
  - 🌱 I'm currently on an Erasmus exchange program
  - 🌍 I love travelling. Getting to know different cultures and countries is what makes life beautiful 
- - 💭 My dream job involes complex algorithms and thinking
+ - 💭 My dream job involves complex algorithms and creative thinking
 
  
 
